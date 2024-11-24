@@ -1,0 +1,40 @@
+#title {
+    color: #5865F2;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+.body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    background-color: hsl(219, 28%, 88%);
+    text-align: center;
+}
+
+.body .main-text {
+    color: #669DF6;
+    font-size: 28px;
+}
+
+.img {
+    height: 600px;
+    width: 730px;
+}
+
+ul {
+    text-align: center; /* or whatever alignment you want */
+    list-style-position: inside; /* this makes the bullets align with the text */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ol {
+    text-align: center; /* or whatever alignment you want */
+    list-style-position: inside; /* this makes the bullets align with the text */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.img.recipe {
+    height: 600px;
+    width: 1030px;
+}
