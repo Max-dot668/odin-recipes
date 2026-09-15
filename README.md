@@ -18,4 +18,4 @@ Even though this website is simple and unstyled, building it helped me practice:
 ## How to View It
 
 You can view the live website here:
-👉 _(Add your GitHub Pages link here once you publish it, e.g., https://your-username.github.io/odin-recipes/)_
+👉 _(Add your GitHub Pages link here once you publish it, e.g., https://max-dot668.github.io/odin-recipes/)_
